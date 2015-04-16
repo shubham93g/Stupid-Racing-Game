@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UI\BrowserManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Race\BombController.cs" Line="22" Column="3" />
+      <File FileName="Assets\Scripts\UI\LobbyManager.cs" Line="89" Column="3" />
+      <File FileName="Assets\Scripts\Race\PowerUpController.cs" Line="98" Column="64" />
+      <File FileName="..\..\720noscopeggnore\Stupid Racing Game\Assets\Scripts\Race\PlayerController.cs" Line="328" Column="4" />
+      <File FileName="Assets\Scripts\Race\NetworkManager.cs" Line="25" Column="24" />
+      <File FileName="Assets\Scripts\UI\BrowserManager.cs" Line="69" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
